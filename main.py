@@ -1,5 +1,4 @@
 # Add bank class here
-# Add bank class here
 
 class Bank:
     def __init__(self, name):
